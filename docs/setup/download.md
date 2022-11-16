@@ -54,6 +54,8 @@ In order to function correctly, the UI Lovelace Mininmalist "Theme" requires som
 | [`my-cards-slider-card`](https://github.com/AnthonMS/my-cards)          |
 | [`light-entity-card`](https://github.com/ljmerza/light-entity-card)     |
 | [`lovelace-auto-entities`](https://github.com/thomasloven/lovelace-auto-entities)|
+| ['lovelace-state-switch'](https://github.com/thomasloven/lovelace-state-switch)|
+| ['lovelace-layout-card'](https://github.com/thomasloven/lovelace-layout-card)|
 
 You can install most of them also via HACS or manually.
 
